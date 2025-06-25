@@ -1,4 +1,4 @@
-# . **Definisi**
+# .**Definisi**
 <div class=blockquotes>
   > _Data indexing_ adalah proses menciptakan indeks atau **petunjuk lokasi data dalam dataset** yang besar. Index ini memungkinkan pengambilan data spesifik secara lebih cepat dan efisien tanpa perlu mencari seluruh dataset, sehingga kita bisa mengakses, mengambil, dan mengelola data dengan cepat dan efisien.
   
@@ -15,7 +15,7 @@ Jika ingin mencari buku "Laskar Pelangi" di perpustakaan:
 
 # . **Jenis-jenis Data Indexing**
 
-## ** Positional indexing (Pengindeksan Posisi)**
+## **Positional indexing (Pengindeksan Posisi)**
 
 >Metode untuk mengakses data berdasarkan posisi atau urutan numerik dalam suatu struktur data, biasanya dimulai dari indeks pertama
 
