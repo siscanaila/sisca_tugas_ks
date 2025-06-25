@@ -1,6 +1,6 @@
 ---
 title: "ANALISIS DATA INDEXING PADA R"
-author: "KELOMPOK 10 - KOMPUTASI STATISTIKA"
+author: "KELOMPOK 7 - KOMPUTASI STATISTIKA"
 date: "`r format(Sys.Date(), '%d %B %Y')`"
 output:
   html_document:
@@ -19,7 +19,7 @@ output:
 
 
 
-# . **DEFINISI**
+# . **Definisi**
 <div class=blockquotes>
   > _Data indexing_ adalah proses menciptakan indeks atau **petunjuk lokasi data dalam dataset** yang besar. Index ini memungkinkan pengambilan data spesifik secara lebih cepat dan efisien tanpa perlu mencari seluruh dataset, sehingga kita bisa mengakses, mengambil, dan mengelola data dengan cepat dan efisien.
   
@@ -197,3 +197,6 @@ detail_summary <- iris %>%
             list(mean = mean, sd = sd, max = max)))
 detail_summary
 ```
+
+_scan qr code ini_ untuk mengakses halaman 
+![qrcode](path/ke/gambar.png)
