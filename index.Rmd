@@ -1,24 +1,3 @@
----
-title: "ANALISIS DATA INDEXING PADA R"
-author: "KELOMPOK 7 - KOMPUTASI STATISTIKA"
-date: "`r format(Sys.Date(), '%d %B %Y')`"
-output:
-  html_document:
-    toc: true  
-    toc_depth: 3 
-    toc_float: true  # Membuat TOC mengambang di sisi kiri
-    theme: cosmo  # Tema, sesuaikan dengan kebutuhan
-    number_section : true 
-    highlight: tango
-    css: style.css  # Menyertakan file CSS untuk styling
-    includes:
-      in_header:
-        - navbar.html  # Menyertakan file navbar.html
----
-
-
-
-
 # . **Definisi**
 <div class=blockquotes>
   > _Data indexing_ adalah proses menciptakan indeks atau **petunjuk lokasi data dalam dataset** yang besar. Index ini memungkinkan pengambilan data spesifik secara lebih cepat dan efisien tanpa perlu mencari seluruh dataset, sehingga kita bisa mengakses, mengambil, dan mengelola data dengan cepat dan efisien.
@@ -140,7 +119,7 @@ head(spesies_terpilih)
 ```
 
 
-### **Select Kolom*
+### **Select Kolom**
 **a.memilih kolom tertentu**
 ```{r}
 kolom_dipilih <- iris %>%
@@ -162,7 +141,7 @@ kolom_contains <- iris %>%
 head(kolom_contains)
 ```
 
-### **Mutate_**
+### **_Mutate_**
 
 ```{r}
 iris_diolah <- iris %>%
@@ -177,7 +156,7 @@ iris_diolah <- iris %>%
 head(iris_diolah)
 ```
 
-### **._Group By_**
+### **_Group By_**
 **a.Rata-rata panjang sepal per species**
 ```{r}
 summary_spesies <- iris %>%
@@ -197,6 +176,11 @@ detail_summary <- iris %>%
             list(mean = mean, sd = sd, max = max)))
 detail_summary
 ```
+<br>
+<br>
 
-_scan qr code ini_ untuk mengakses halaman 
-![qrcode](kode.link_qrcode.png)
+klik tautan di bawah ini untuk mengakses via laman web :
+[link](https://siscanaila.github.io/sisca_tugas_ks/)
+
+
+
