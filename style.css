@@ -328,8 +328,7 @@ blockquote {
   padding: 1rem 20px; /* Padding lebih kecil agar tidak terlalu besar */
   margin: 2rem 0; /* Margin atas dan bawah lebih kecil */
   font-size: 1.5rem; /* Ukuran font lebih kecil agar tidak terlalu besar */
-  line-height: 1.6; /* Jarak antar baris lebih pas */
-  font-style: italic; /* Menggunakan gaya italic */
+  line-height: 1.6; /* Jarak antar baris lebih pas */ /* Menggunakan gaya italic */
   color: #fff; /* Teks berwarna putih */
   border-radius: 12px; /* Membuat sudut lebih bulat */
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2); /* Menambahkan bayangan halus */
