@@ -199,4 +199,4 @@ detail_summary
 ```
 
 _scan qr code ini_ untuk mengakses halaman 
-![qrcode](path/ke/gambar.png)
+![qrcode](kode.link_qrcode.png)
