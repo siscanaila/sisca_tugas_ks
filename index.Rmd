@@ -1,6 +1,6 @@
 ---
 title: "ANALISIS DATA INDEXING PADA R"
-author: "KELOMPOK 10 - KOMPUTASI STATISTIKA"
+author: "KELOMPOK 7- KOMPUTASI STATISTIKA"
 date: "`r format(Sys.Date(), '%d %B %Y')`"
 output:
   html_document:
